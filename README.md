@@ -11,6 +11,7 @@ Any Code Editor
 * git pull
 * npm install
 * front -end : npm start  
+* run mongoClient & run elasticsearch & update ports in configuration.json
 * server: cd Backend & node server.js 
 * open Browser  & hit localhost:3200
 
@@ -19,6 +20,7 @@ Any Code Editor
 * git pull
 * npm install
 * npm run build
+* run mongoClient & run elasticsearch & update ports in configuration.json
 * cd Backend & node server.js 
 * open Browser  & hit localhost:3200
 
