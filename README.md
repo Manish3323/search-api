@@ -10,15 +10,17 @@ Any Code Editor
 * cd $project_base
 * git pull
 * npm install
-* front -end : npm start
+* front -end : npm start  
 * server: cd Backend & node server.js 
+* open Browser  & hit localhost:3200
+
 
 **Release version**
 * git pull
 * npm install
 * npm run build
 * cd Backend & node server.js 
-
+* open Browser  & hit localhost:3200
 
 ## Note
 install Cross-Origin-Allow-Access plugin for chrome 
