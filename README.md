@@ -1,19 +1,24 @@
-# Fifa World Cup 18 Fantasy app
+# Api Based Search Engine
 
 ### Prerequisites
 Node installed on machine
-Mobile device to use as a emulator or Android Studio installed 
 Any Code Editor
 
 ## Deployment
 
-* cd $project_base
 * Dev version
-react-native run-android  
+* cd $project_base
+* git pull
+* npm install
+* front -end : npm start
+* server: cd Backend & node server.js 
+
 * Release version
-cd android/
-gradlew assembleRelease && cd .. && 
-react-native run-android --variant=release  
+* git pull
+* npm install
+* npm run build
+* cd Backend & node server.js 
+
 
 ## Note
 install Cross-Origin-Allow-Access plugin for chrome 
