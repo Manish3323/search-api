@@ -1,0 +1,48 @@
+{
+    "data": [{
+            "firstName": "John",
+            "lastName": "Cena",
+            "photo": "https://statics.sportskeeda.com/wp-content/uploads/2014/05/capture-1398998730.jpg",
+            "mobile": 9898989898,
+            "email": "johncena@gmail.com",
+            "address": "st 41, bastain lane",
+            "city": "New York",
+            "coordinates": [74.0060, 40.7128],
+            "aboutMe": "John Felix Anthony Cena Jr. is an American professional wrestler, actor, rapper, and television host. He is currently signed to WWE, where he is a free agent who appears for both the Raw and SmackDown brands",
+            "interests": [
+                "Acting",
+                "wrestling"
+            ]
+        },
+        {
+            "firstName": "Lionel",
+            "lastName": "Messi",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp61HFebNljQM8VqsPgWobgJeyUnJnWngpdv_as1V0PTLQ0san",
+            "mobile": 4004004008,
+            "email": "magicalmessi@gmail.com",
+            "address": "Camp Nou,Carrer d'Arístides Maillol, s/n.\n08028 ",
+            "city": "Barcelona",
+            "coordinates": [2.1734, 41.3851],
+            "aboutMe": "Lionel Andrés Messi Cuccittini is an Argentine professional footballer who plays as a forward for Spanish club Barcelona and the Argentine national team",
+            "interests": [
+                "Football",
+                "Music"
+            ]
+        },
+        {
+            "firstName": "Neymar",
+            "lastName": " da Silva Santos",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Neymar_PSG.jpg/250px-Neymar_PSG.jpg",
+            "mobile": 40044848008,
+            "email": "neyneymar@gmail.com",
+            "address": "Le Parc des Princes\n24 rue du Commandant Guilbaud\n75781 Paris Cedex 16",
+            "city": "France",
+            "coordinates": [2.3522, 48.8566],
+            "aboutMe": "Neymar da Silva Santos Junior, known as Neymar or Neymar Jr. (born 5 February 1992 in Magi das Cruz's, Brazil), is a Brazilian footballer that can play as a left or right Winger or as a Striker. He plays for the French team Paris Saint-Germain. He plays for the Brazil national football team at international level",
+            "interests": [
+                "Football",
+                "Music"
+            ]
+        }
+    ]
+}

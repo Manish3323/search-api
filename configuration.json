@@ -1,0 +1,5 @@
+{
+    "dbUrl": "mongodb://localhost:27017/test",
+    "serverPort": 3200,
+    "elasticHost": "localhost:9200"
+}

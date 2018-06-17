@@ -1,0 +1,6 @@
+export const CHANGE_TEXT = 'CHANGE_TEXT'
+export const LOAD_USERS = 'LOAD_USERS'
+export const SET_RESULTS = 'SET_RESULTS'
+export const SET_SUGGESTIONS = 'SET_SUGGESTIONS'
+export const url = '/users'
+export const esLoadUsers = 'CHANGE_TEXT'

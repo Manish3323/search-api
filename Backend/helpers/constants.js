@@ -1,0 +1,2 @@
+module.FAILURE = 'FAILURE'
+module.SUCCESS = 'SUCCESS'
