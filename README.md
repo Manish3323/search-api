@@ -6,14 +6,14 @@ Any Code Editor
 
 ## Deployment
 
-* Dev version
+**Development version**
 * cd $project_base
 * git pull
 * npm install
 * front -end : npm start
 * server: cd Backend & node server.js 
 
-* Release version
+**Release version**
 * git pull
 * npm install
 * npm run build
